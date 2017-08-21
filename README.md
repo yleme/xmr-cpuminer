@@ -1,0 +1,2 @@
+# xmr-cpuminer
+Monero CpuMiner
