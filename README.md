@@ -1,29 +1,6 @@
 Xmr-cpuminer
 ==============
 
-#### Table of contents
-
-* [Algorithms](#algorithms)
-* [Dependencies](#dependencies)
-* [Download](#download)
-* [Build](#build)
-* [Usage instructions](#usage-instructions)
-* [Donations](#donations)
-* [Credits](#credits)
-* [License](#license)
-
-Algorithms
-==========
-#### Currently supported
- * ✓ __cryptonight__ (Bytecoin [BCN], Monero)
-
-Dependencies
-============
-* libcurl			http://curl.haxx.se/libcurl/
-* jansson			http://www.digip.org/jansson/ (jansson is included in-tree)
-
-
-
 Build
 =====
 
