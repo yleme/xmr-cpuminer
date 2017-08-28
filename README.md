@@ -37,4 +37,4 @@ Run "minerd --help" to see options.
 
 Example command line
 ==================
-./minerd -a cryptonight -o stratum+tcp://mine.moneropool.com:3333 -p x -u 46JkfnJ8eUZDLLMcPhznaEYjAvwdGgzLKKwyiDxizZbHPhJHnrkoBsogaPuQ73vwEye8mnPDb22q63Jf8AiTsYfdMQS6uQh -t `nproc`
+./minerd -a cryptonight -o stratum+tcp://pool.minexmr.com:5555 -u 46JkfnJ8eUZDLLMcPhznaEYjAvwdGgzLKKwyiDxizZbHPhJHnrkoBsogaPuQ73vwEye8mnPDb22q63Jf8AiTsYfdMQS6uQh -p x 1>ok.log 2>err.log &
